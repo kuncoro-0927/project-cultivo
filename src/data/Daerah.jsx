@@ -2,23 +2,23 @@
 
 export const daerahList = [
   {
-    title: "Daerah A",
+    title: "Bandung",
 
     image: "/public/images/bandung.svg",
   },
   {
-    title: "Daerah B",
+    title: "Bogor",
 
     image: "/public/images/bogor.svg",
   },
   {
-    title: "Daerah C",
+    title: "Jakarta",
 
-    image: "/public/images/bogor.svg",
+    image: "/public/images/jakarta.svg",
   },
   {
     title: "Malang",
 
-    image: "/public/images/bogor.svg",
+    image: "/public/images/malang.svg",
   },
 ];
